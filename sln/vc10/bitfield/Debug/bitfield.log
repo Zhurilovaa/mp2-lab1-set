@@ -1,0 +1,3 @@
+﻿  tbitfield.cpp
+c:\myprojects\zhurilova.a\mp2-lab1-set\src\tbitfield.cpp(134): warning C4715: TBitField::operator==: значение возвращается не при всех путях выполнения
+  bitfield.vcxproj -> C:\MyProjects\Zhurilova.a\mp2-lab1-set\sln\vc10\Debug\bitfield.lib
